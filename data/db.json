@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "username": "Akash Butala",
+      "email": "ab@yahoo.com",
+      "address": "Mantra, California",
+      "bid": "125000",
+      "date": "2023-06-27T16:09",
+      "file": "house1.jpg",
+      "interested": 2
+    },
+    {
+      "username": "Prakhar Khandelwal",
+      "email": "pk@gmail.com",
+      "address": "Mannat, Miami",
+      "bid": "150000",
+      "date": "2023-06-29T10:00",
+      "file": "house2.jpg",
+      "id": 2,
+      "interested": 1
+    },
+    {
+      "username": "Pratk Parmar",
+      "email": "pp@gmail.com",
+      "address": "Jannat, Michigan",
+      "bid": "126742",
+      "date": "2023-06-30T12:30",
+      "file": "house3.jpg",
+      "id": 3,
+      "interested": 0
+    },
+    {
+      "username": "Vijit Thakur",
+      "email": "vt@gmail.com",
+      "address": "Thakur, New York",
+      "bid": "243543",
+      "date": "2023-06-30T14:08",
+      "file": "house4.jpg",
+      "id": 4,
+      "interested": 2
+    },
+    {
+      "username": "Esha Panchmukh",
+      "email": "ep@gmail.com",
+      "address": "Esha Niwas, San Francisco",
+      "bid": "2400000",
+      "date": "2023-07-18T15:00",
+      "file": "house5.jpg",
+      "id": 5,
+      "interested": 0
+    },
+    {
+      "username": "Abhi Shinde",
+      "email": "abhi@gmail.com",
+      "address": "College  Place, Los Angeles",
+      "bid": "250000",
+      "date": "2023-07-15T10:30",
+      "file": "house6.jpg",
+      "interested": 1,
+      "id": 6
+    }
+  ],
+  "buyer": [
+    {
+      "username": "Aniket wattamwar",
+      "email": "aw@gmail.com",
+      "address": "Fullerton, California",
+      "home": "Thakur, New York",
+      "id": 1
+    },
+    {
+      "username": "Shreyash Kulkarni",
+      "email": "sk@gmail.com",
+      "address": "San Francisco",
+      "home": "Thakur, New York",
+      "id": 2
+    },
+    {
+      "username": "Dhiraj Patil",
+      "email": "aw@gmail.com",
+      "address": "Fullerton, California",
+      "home": "Mantra, California",
+      "id": 4
+    },
+    {
+      "username": "Sanket Shahane",
+      "email": "sk@gmail.com",
+      "address": "San Francisco",
+      "home": "Mantra, California",
+      "id": 5
+    },
+    {
+      "username": "Sagar Pardeshi",
+      "email": "sk@gmail.com",
+      "address": "California",
+      "home": "Mannat, Miami",
+      "id": 6
+    },
+    {
+      "username": "Amey Knaunje",
+      "email": "ak@gmail.com",
+      "address": "Caifornia",
+      "home": "College  Place, Los Angeles",
+      "id": 7
+    }
+  ]
+}
